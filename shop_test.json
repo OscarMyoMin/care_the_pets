@@ -235,6 +235,20 @@
       "facebook":"",
       "remark":"",
       "rating":""
+   },
+   {
+      "name":"Gloria's Pet Supplies",
+      "image":"",
+      "support":"Dog, Cat, Qauatics, Small Pets",
+      "latitude":"16.815923529917743",
+      "longitude":"96.20755394155103",
+      "state":"ရန်ကုန်",
+      "township":"သင်္ဃန်းကျွန်းမြို့နယ်",
+      "phone":"09447556611",
+      "address":"ခြံအမှတ် (၁၅)၊ ဓနသိဒ္ဓိလမ်း(ဝတ်ရည်လမ်း) (ပေါ်ဆန်းမွှေးလမ်းမမှဝင်ရန်)၊ ၂၉ ရပ်ကွက်၊ သုဝဏ္ဏ၊ သင်္ဃန်းကျွန်း။",
+      "facebook":"htts://www.facebook.com/gloriapetsupplies",
+      "remark":"",
+      "rating":""
    }
    ]
 }
