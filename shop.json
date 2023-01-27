@@ -172,9 +172,9 @@
       "latitude":"",
       "longitude":"",
       "state":"ရန်ကုန်",
-      "township":"",
+      "township":"လှိုင်မြို့နယ်",
       "phone":"09403124223, 09779519547",
-      "address":"",
+      "address":"တိုက်အမှတ် (၁၁)၊ မြနန္ဒာအိမ်ရာ၊ မြနန္ဒာ (၃)လမ်း၊ အုတ်ကျင်းဘူတာရုံ၊ ဗဟိုလမ်းမပေါ်၊ လှိုင်မြို့နယ်၊ ရန်ကုန်။",
       "facebook":"",
       "remark":"",
       "rating":""
@@ -186,9 +186,9 @@
       "latitude":"",
       "longitude":"",
       "state":"ရန်ကုန်",
-      "township":"",
+      "township":"စမ်းချောင်းမြို့နယ်",
       "phone":"09420437511",
-      "address":"",
+      "address":"အမှတ်(၂၇)၊ ရှင်စောပုလမ်း၊ စမ်းချောင်းမြို့နယ်၊ ရန်ကုန်",
       "facebook":"",
       "remark":"",
       "rating":""
@@ -202,7 +202,7 @@
       "state":"ရန်ကုန်",
       "township":"",
       "phone":"09775587589",
-      "address":"",
+      "address":"Only Online Shop right now",
       "facebook":"",
       "remark":"",
       "rating":""
@@ -232,6 +232,20 @@
       "phone":"09777597869, 09975369786",
       "address":"76 Street, 26x27 between, No(199), ချမ်းအေးသာစံမြို့နယ်၊ မန္တလေး။",
       "facebook":"",
+      "remark":"",
+      "rating":""
+   },
+   {
+      "name":"Gloria's Pet Supplies",
+      "image":"",
+      "support":"Dog, Cat, Qauatics, Small Pets",
+      "latitude":"16.815923529917743",
+      "longitude":"96.20755394155103",
+      "state":"ရန်ကုန်",
+      "township":"သင်္ဃန်းကျွန်းမြို့နယ်",
+      "phone":"09447556611",
+      "address":"ခြံအမှတ် (၁၅)၊ ဓနသိဒ္ဓိလမ်း(ဝတ်ရည်လမ်း) (ပေါ်ဆန်းမွှေးလမ်းမမှဝင်ရန်)၊ ၂၉ ရပ်ကွက်၊ သုဝဏ္ဏ၊ သင်္ဃန်းကျွန်း။",
+      "facebook":"htts://www.facebook.com/gloriapetsupplies",
       "remark":"",
       "rating":""
    }
