@@ -6,7 +6,7 @@
     "url": "https://frail-painter.net",
     "image": "https://loremflickr.com/640/480",
     "author": "Thu Do Something",
-    "category": "Visa"
+    "category": "Visa",
     "id": "1"
   },
   {
@@ -16,6 +16,6 @@
     "url": "https://unique-flour.biz",
     "image": "https://loremflickr.com/640/480",
     "author": "Thu Do Something",
-    "category": "Tourist"
+    "category": "Tourist",
     "id": "2"
   },
